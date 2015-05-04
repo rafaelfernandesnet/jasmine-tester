@@ -1,0 +1,11 @@
+{
+  "name": "jasmine-test",
+  "version": "0.0.0",
+  "authors": [
+    "RAFAEL FERNANDES <rafael.net.ca@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "~2.3.0"
+  }
+}
